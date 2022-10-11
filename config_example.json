@@ -1,0 +1,21 @@
+{
+  "port": "3000",
+  "adminAccount": "admin@admin.com",
+  "closeRegister":true,
+  "versionNotify": true,
+  "db": {
+    "servername": "127.0.0.1",
+    "DATABASE": "yapi",
+    "port": "27017"
+  },
+  "mail": {
+    "enable": false,
+    "host": "smtp.mxhichina.com",
+    "port": 465,
+    "from": "kangen.xu@yelopack.com",
+    "auth": {
+      "user": "kangen.xu@yelopack.com",
+      "pass": "Qwerty@123"
+    }
+  }
+}
